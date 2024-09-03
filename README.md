@@ -17,4 +17,4 @@ Additionally, the application utilizes the [Tavily](https://tavily.com/) search 
 
 ### [Explore the Streamlit Application]( https://llmportfolio2.streamlit.app/)
 
-![](demo.gif)
+<img src="demo.gif" alt="demo video" width="830">
