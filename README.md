@@ -1,6 +1,6 @@
 ### AskMe Anything
 
-AskMe Anything is a GPT-powered AI application designed to provide accurate answers to your questions by leveraging AI agents capable of searching the web for the latest information. This ensures that the responses are up-to-date and accurate, even for queries that the AI might not have immediate knowledge of.
+AskMe Anything is a LLM-powered AI application designed to provide accurate answers to your questions by leveraging AI agents capable of searching the web for the latest information. This ensures that the responses are up-to-date and accurate, even for queries that the AI might not have immediate knowledge of.
 
 This repository hosts a Streamlit application integrated with two Large Language Model (LLM) providers:
 1. Groq
@@ -15,6 +15,6 @@ To use this application, you'll need to create accounts and generate API keys fr
 
 Additionally, the application utilizes the [Tavily](https://tavily.com/) search engine for enhanced search capabilities. To use this feature, you'll need to create an account on Tavily and obtain an API key.
 
-### [Watch the Demo Here](demo.webm)
-
 ### [Explore the Streamlit Application]( https://llmportfolio2.streamlit.app/)
+
+![](demo.gif)
