@@ -15,7 +15,6 @@ To use this application, you'll need to create accounts and generate API keys fr
 
 Additionally, the application utilizes the [Tavily](https://tavily.com/) search engine for enhanced search capabilities. To use this feature, you'll need to create an account on Tavily and obtain an API key.
 
-<video width="800" controls autoplay loop>
-  <source src="demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+### [Watch the Demo Here](demo.webm)
+
+### [Explore the Streamlit Application]( https://llmportfolio2.streamlit.app/)
