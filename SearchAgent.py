@@ -19,14 +19,8 @@ if st.button("Find Out"):
     else:
         os.environ["TAVILY_API_KEY"] = tavily_api
         search = TavilySearchResults(max_results=2)
-        # search_results = search.invoke(source_text)
-        # st.write(search_results[0]["content"])
-        # st.write(search_results)
         tools = [search]
         model = ChatGroq(model="llama3-8b-8192", api_key=llm_api)
-        # response = model.invoke([HumanMessage(content=source_text)])
-        # response.content
-        # model_with_tools = model.bind_tools(tools)
         agent_executor = create_react_agent(model, tools)
         response = agent_executor.invoke({"messages": [HumanMessage(content=source_text)]})
         st.write(response["messages"][-1].content)
