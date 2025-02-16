@@ -1,6 +1,3 @@
-Here’s a more polished and attention-grabbing `README.md` for your **AskMe Anything** project with all the necessary adjustments:
-
----
 
 # AskMe Anything 🚀
 
