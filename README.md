@@ -82,7 +82,7 @@ Here's a sneak peek of how it looks when you're interacting with the chatbot:
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
